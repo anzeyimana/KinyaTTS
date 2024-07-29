@@ -5,4 +5,8 @@ __pycache__/
 **/**/**/__pycache__/
 **/**/**/**/__pycache__/
 **/**/**/**/**/__pycache__/
-
+**/Inference/kinyatts.egg-info/*
+**/Inference/monotonic_align/*
+.venv
+*.pt
+*.json
